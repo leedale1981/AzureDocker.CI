@@ -1,0 +1,9 @@
+﻿{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Microsoft.WindowsAzure.Management.WebSites" : "4.0.0" 
+      }
+    }
+  }
+}
